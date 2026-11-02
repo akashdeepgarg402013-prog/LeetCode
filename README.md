@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
+| [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
+| [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
