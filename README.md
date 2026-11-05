@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
@@ -35,10 +38,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [2652-sum-multiples](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
