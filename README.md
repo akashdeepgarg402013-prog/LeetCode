@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0338-counting-bits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
