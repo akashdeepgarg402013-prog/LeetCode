@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0054-spiral-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Dynamic Programming
