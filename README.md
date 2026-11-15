@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
