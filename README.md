@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0054-spiral-matrix) |
+| [0164-maximum-gap](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
@@ -109,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0067-add-binary) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
