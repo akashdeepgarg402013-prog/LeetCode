@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [1267-count-servers-that-communicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1920-build-array-from-permutation](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
