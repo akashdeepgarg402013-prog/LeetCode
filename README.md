@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
+| [3945-digit-frequency-score](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Polygons
 |  |
 | ------- |
