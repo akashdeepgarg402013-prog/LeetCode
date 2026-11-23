@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 | [3516-find-closest-person](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3516-find-closest-person) |
+| [3783-mirror-distance-of-an-integer](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Polygons
 |  |
