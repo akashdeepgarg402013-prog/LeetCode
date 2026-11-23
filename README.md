@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
