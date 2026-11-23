@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2942-find-words-containing-character](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 | [3668-restore-finishing-order](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3731-find-missing-elements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0504-base-7) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2942-find-words-containing-character](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bucket Sort
 |  |
