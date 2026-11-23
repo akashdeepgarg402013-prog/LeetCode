@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [1267-count-servers-that-communicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1920-build-array-from-permutation](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
