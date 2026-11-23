@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
 | [1267-count-servers-that-communicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1512-number-of-good-pairs](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3945-digit-frequency-score) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0229-majority-element-ii) |
 | [1267-count-servers-that-communicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1267-count-servers-that-communicate) |
+| [1512-number-of-good-pairs](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
