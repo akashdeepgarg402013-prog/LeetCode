@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3731-find-missing-elements) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0504-base-7](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0504-base-7) |
+| [0771-jewels-and-stones](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2942-find-words-containing-character](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2942-find-words-containing-character) |
