@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3024-type-of-triangle) |
 | [3668-restore-finishing-order](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/akashdeepgarg402013-prog/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
